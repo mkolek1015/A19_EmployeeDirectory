@@ -1,0 +1,5 @@
+.jumbotron {/*Sets background color, font color and font to use serif*/
+    background-color: rgb(78, 92, 112);
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+}
