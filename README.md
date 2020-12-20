@@ -36,7 +36,7 @@ Click `Alphabetize` and employees will sort by last name. The text will change t
 
 ### Technology
 
-* VS Code v1.48.0
+* VS Code
 * React
 * Bootstrap
 * randomuser.me API
