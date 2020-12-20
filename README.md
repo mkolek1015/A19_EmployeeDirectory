@@ -12,11 +12,10 @@ Built using React, this employee directory allows users to sort employees alphab
 * [License](#license)
 * [Launch](#launch)
 
-### Demo
+### Deployed
 
-For [webpage](LINK TO DEPLOYED)
+For [webpage](https://guarded-castle-28150.herokuapp.com/)
 
-For [demo](LINK TO DEMO)
 
 ### Installation
 
@@ -45,8 +44,8 @@ Click `Alphabetize` and employees will sort by last name. The text will change t
 
 ### Contributors
 
-* Michael Kolek
+Michael Kolek
 
 ### License
 
-MIT
+Public and free-to-use
